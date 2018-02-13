@@ -1,2 +1,7 @@
 hola mundo
 hola mundo 2
+comandos de git
+git log
+git log --one
+git diff
+otro arcchivo
